@@ -1,0 +1,14 @@
+# Derleme ve geçici dosyalar
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / Sistem dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model dosyaları
+model/
+vosk-model-*/
